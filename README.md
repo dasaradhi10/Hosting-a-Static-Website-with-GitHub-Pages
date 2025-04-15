@@ -2,8 +2,6 @@
 
 This is a simple static HTML website deployed using **GitHub Pages**. It demonstrates how to host and customize a static site for free with basic HTML and CSS.
 
-## 🚀 Live Demo
-
 🔗 [View Website](https://your-username.github.io/Hosting-a-Static-Website-with-GitHub-Pages/)  
 
 ## 📁 Project Structure
