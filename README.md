@@ -4,17 +4,11 @@ This is a simple static HTML website deployed using **GitHub Pages**. It demonst
 
 ## 🚀 Live Demo
 
-🔗 [View Website](https://your-username.github.io/your-repo-name/)  
-*(Replace with your actual URL)*
-
----
+🔗 [View Website](https://your-username.github.io/Hosting-a-Static-Website-with-GitHub-Pages/)  
 
 ## 📁 Project Structure
 
 Hosting-a-Static-website-with-GitHub-Pages   index.html # Main HTML page  style.cs
-
-
----
 
 ## 🛠️ How I Built It
 
@@ -27,8 +21,6 @@ Hosting-a-Static-website-with-GitHub-Pages   index.html # Main HTML page  style.
 5. **Added `style.css`** to customize the website look.
 6. **Committed & pushed changes** to GitHub.
 7. **Accessed the live site** using the GitHub Pages link.
-
----
 
 ## 📚 Key Concepts Learned
 
